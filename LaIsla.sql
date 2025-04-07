@@ -1,5 +1,5 @@
 -- Crear la base de datos
--- CREATE DATABASE LaIslaDeLasTentaciones;
+CREATE DATABASE LaIslaDeLasTentaciones;
 
 -- Usar la base de datos
 USE LaIslaDeLasTentaciones;
